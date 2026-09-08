@@ -231,9 +231,9 @@ Slot: 0
 
 ## ✅ สิ่งที่ต้องส่ง
 
-1. โปรเจกต์เดียว, `Program.cs` ไฟล์เดียว, ชื่อ `Lab04` — ทั้ง 4 หน้าจอรันเรียงต่อกันใน `Ctrl+F5` ครั้งเดียว
+1. โปรเจกต์เดียว, `Program.cs` ไฟล์เดียว, ชื่อ `Lab04` — สำหรับ Test Case ทั้ง 4 หน้าจอรันเรียงต่อกันใน `Ctrl+F5` ครั้งเดียว
 2. Header comment (Student ID / Name / Section / No.) อยู่บนสุด เหมือนทุก Lab ที่ผ่านมา
-3. แต่ละหน้าจอ print header block ของตัวเองก่อน ("ITEM SHOP", "SET VOLUME", ...) ให้เห็นชัดว่าแยก 4 หน้าจอ
+3. แต่ละหน้าจอ print header block ของตัวเองก่อน ("ITEM SHOP", "SET VOLUME", ...) ให้เห็นชัดว่าแยก 4 Screenshot
 4. "Try to Break It" (ไม่คิดคะแนน แต่ให้ทำ): ทดสอบทุกหน้าจอด้วย input ที่ถูกและผิด ตามหมวดด้านบน — ถ้าหน้าจอไหน crash ตอน input ผิด แปลว่า `TryParse` ยังต่อไม่ถูก
 5. Commit ด้วยข้อความที่สื่อความหมายจริง (ห้ามใช้คำว่า `"update"`) push ขึ้น repo `GI113-2026-<รหัสนักศึกษา>` ของตัวเอง โพสต์ลิงก์ commit ใน Teams พร้อมแนบ screenshot ที่รันครบทั้ง 4 หน้าจอ (เห็น Console ตั้งแต่ Character Creation ถึง New Save File)
 
