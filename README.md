@@ -24,6 +24,7 @@ GI113-2026-Course/
 | [Week02](./Week02) | Lab 2 — Kirin's Status Report + เกมของคุณเอง (ตัวแปร, ชนิดข้อมูล 6 แบบ, string interpolation, Version Control) |
 | [Week03](./Week03) | Lab 3 — Kirin's Status Report + Type Conversion, Implicit, Explicit, Casting|
 | [Week04](./Week04) | Lab 4 — User Input, TryParse, Use Case, Test Case|
+| [Week05](./Week05) | Lab 5 — Operators, Random, Combined with week 4|
 
 ## ถ้าหาโจทย์ Lab สัปดาห์นี้ไม่เจอ
 
