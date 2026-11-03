@@ -1,4 +1,4 @@
-# Lab 11: Array Statistics
+# Lab 8: Array Statistics
 
 **GI113 Computer Programming (GI)** · สัปดาห์ที่ 12 · เนื้อหา: array, `Length`, `for`, `foreach`, `Array.Sort`
 
